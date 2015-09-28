@@ -1,0 +1,72 @@
+.header {
+  width: 100%;
+  height: 30px;
+  margin: 2px;
+
+}
+
+.header-text {
+  margin: 10px;
+  padding-left: 0;
+
+}
+
+.header-text li {
+  display: inline-block;
+
+  margin-bottom: 2px;
+  margin-right: 32px;
+  font-style: left;
+}
+
+.header-text li a {
+  color: grey;
+  text-decoration: none;  
+
+}
+
+.header-text li a:hover {
+  color: black;
+}
+
+
+
+
+.title-options {
+  width: 100%;
+  height: 30px;
+  margin: 2px;
+
+}
+
+.title {
+  margin: 10px;
+  padding-left: 0;
+
+}
+
+.title-options li {
+  display: inline-block;
+
+  margin-bottom: 2px;
+  margin-right: 32px;
+  font-style: left;
+}
+
+.title-options li a {
+  color: grey;
+  text-decoration: none;  
+
+}
+
+.title-options li a:hover {
+  color: black;
+}
+
+.title-tie {
+  height: 100px;
+  width: 100px;
+}
+
+
+
